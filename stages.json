@@ -1,0 +1,84 @@
+{
+ "job": "Bromfelde Corner, 25 Bromfelde Road, London SW4 6PP",
+ "revision": "",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Foundation and ground floor",
+   "desc": "The 6in XR35 / 6in Std foundation (2 courses on a strip footing, by others) and the precast beam and block ground floor with 150 insulation and 50 screed (top of screed = FFL = top of the foundation course).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 407004
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground floor walls, windows and partitions",
+   "desc": "Ground-floor walls (6 courses): 6in XR35 external walls with the three front bays (as drawn, 3:4 mitred sides), the 6in Std stair core and flat separating wall; windows, the garden doors and the entrance; timber stud partitions.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1416808
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor",
+   "desc": "Precast beam and block first floor (100 topping + 25 screed) with the indicative steels (engineer) and the roof terrace over Flat 2; first-floor walls, bays, windows, terrace doors and partitions; the four bays capped with shallow (20 degree) hipped slate roofs under the second-floor sills.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1375420
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Second floor",
+   "desc": "Second floor (precast beam and block), the second-floor walls over the main block, windows, terrace doors and partitions; the two-storey wing is roofed at this level.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1035248
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Third floor (attic) and the party wall",
+   "desc": "Third-floor (Flat 5 attic) precast floor, the eaves walls and the NE party wall against 27 Bromfelde Road carried up and raked to 50 mm below the top of the rafters.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 324876
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Roof structure",
+   "desc": "Cut roofs (indicative - engineer): the main hipped roof with a gable against the NE party wall (33 degrees, natural slate) and the hipped roof over the two-storey wing. C24 rafters @600.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 149676
+    }
+   ]
+  }
+ ]
+}
